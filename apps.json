@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.oofiffybird.Calzy.Beta",
+      "developerName": "Filled Oof Bird",
+      "downloadURL": "https://dl.dropbox.com/s/hyu5prb7396sofh/calzy_3.3.3_Zachary_Cracks%28%20up%20to%2013.0%20ok%29%29%20.ipa?dl=1",
+      "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/cc/56/2fcc5638-f0cd-4f37-a5d0-0ffebe6d06fe/source/100x100bb.jpg",
+      "localizedDescription": "oof",
+      "name": "Calzy",
+      "screenshotURLs": [
+        ""
+      ],
+      "size": 2184796,
+      "subtitle": "calzy pog",
+      "tintColor": "018070",
+      "version": "1.0",
+      "versionDate": "2020-05-22T14:00:00-07:00",
+      "versionDescription": "oofer nation"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "OOFERNATION",
+  "news": [],
+  "userInfo": {}
+}
