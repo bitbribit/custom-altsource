@@ -72,8 +72,19 @@
       "versionDescription": "lmao"
     }
   ],
-  "identifier": "com.bitbribit.source",
+  "identifier": "com.example.source",
   "name": "BITbriBIT",
-  "news": [],
+  "news": [
+    {
+      "appID": "com.bitbribit.fizdale",
+      "caption": "omg the knicks beat the bucks",
+      "date": "2020-05-22",
+      "identifier": "david-fizdale",
+      "imageURL": "https://i.ibb.co/4pr5Mgt/066-D0-A17-595-E-4-C48-AF2-A-B6-A7-EE2-ABB1-F.jpg",
+      "notify": false,
+      "tintColor": "8A28F7",
+      "title": "david fizdale"
+    }
+  ],
   "userInfo": {}
 }
