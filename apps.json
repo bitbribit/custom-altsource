@@ -3,6 +3,27 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "me.oatmealdome.dolphinios-njb",
+      "developerName": "OatmealDome",
+      "downloadURL": "https://cdn.oatmealdome.me/dolphinios/ipa/DolphiniOS-NJB-2.2.2-1.ipa",
+      "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/ios_marketing1024x1024.png",
+      "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like higher resolutions, save states, and more. You can even play all of Nintendo's classics from past consoles through the Wii's Virtual Console library.\n\nPlease note that devices with A8 processors and older are not compatible.",
+      "name": "DolphiniOS",
+      "screenshotURLs": [
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_1.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_2.PNG",
+        "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_3_reup.PNG",
+	      "https://cdn.oatmealdome.me/dolphinios/altstore/screenshots/screenshot_6s_4_edit.png"
+      ],
+      "size": 24885718,
+      "subtitle": "GameCube and Wii games on the go.",
+      "tintColor": "41cdff",
+      "version": "2.2.2",
+      "versionDate": "2020-05-05T03:00:00-04:00",
+      "versionDescription": "Fixes an issue where AltStore cannot refresh DolphiniOS after 7 days.\n\nFind the full changelog here: https://oatmealdome.me/blog/dolphinios-ver-2-2-0/"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.bitbribit.puffinpro",
       "developerName": "CloudMosa, Inc.",
       "downloadURL": "https://dl.dropbox.com/s/aejkqs8ppek8pnl/Puffin%20Browser%20Pro%20%5BCloudMosa%20Inc.%5D%20%28v5.2.0%20v15867%20Univ%20PI%20LP%20os80%29-zachary.rc336_933.ipa?dl=1",
