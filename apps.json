@@ -2,25 +2,34 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.oofiffybird.Calzy.Beta",
-      "developerName": "Filled Oof Bird",
+      "bundleIdentifier": "com.bitbribit.Calzy",
+      "developerName": "WapleStuff",
       "downloadURL": "https://dl.dropbox.com/s/hyu5prb7396sofh/calzy_3.3.3_Zachary_Cracks%28%20up%20to%2013.0%20ok%29%29%20.ipa?dl=1",
       "iconURL": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/cc/56/2fcc5638-f0cd-4f37-a5d0-0ffebe6d06fe/source/100x100bb.jpg",
-      "localizedDescription": "oof",
+      "localizedDescription": "pog?",
       "name": "Calzy",
       "screenshotURLs": [
-        ""
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/6b/33/f4/6b33f4e4-8634-884c-7e0b-92742e6c6801/mzl.cmlcfprp.png/392x696bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/48/0f/75/480f7524-064f-7b61-c134-96ff50173743/mzl.mcdwvetd.png/392x696bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/ea/c9/ddeac966-678f-b2ef-660c-b41001f855fb/mzl.otnsvhiu.png/392x696bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ac/a4/90/aca4903d-e81a-eee4-63e0-09f448c5d01d/mzl.mlfazfje.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/49/47/81/49478181-a71e-d9f6-2a5e-a0d07122cc81/pr_source.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/cd/fa/3bcdfa10-03ac-5b69-a510-a2a104da5df9/mzl.taznypuy.png/392x696bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/cd/8d/bfcd8da6-66d7-c2ef-c85a-00ae30b550f8/mzl.gxclrbaj.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/03/38/61/033861a0-ddce-496d-4248-49f1d87a97a6/mzl.cnjjtyrt.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/08/fa/38/08fa3802-e88c-b9b9-a824-4a3e526dd05d/pr_source.png/392x696bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/39/29/ce392935-e873-4efa-9f52-6e80b027b15e/mzl.euuusahh.png/392x696bb.png"
       ],
       "size": 2184796,
       "subtitle": "calzy pog",
       "tintColor": "018070",
       "version": "3.3.3",
       "versionDate": "2020-05-22T14:00:00-07:00",
-      "versionDescription": "oofer nation"
+      "versionDescription": "lmao"
     }
   ],
-  "identifier": "com.example.source",
-  "name": "OOFERNATION",
+  "identifier": "com.bitbribit.source",
+  "name": "BITbriBIT",
   "news": [],
   "userInfo": {}
 }
