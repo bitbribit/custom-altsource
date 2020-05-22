@@ -1,5 +1,28 @@
+
 {
   "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.bitbribit.puffinpro",
+      "developerName": "CloudMosa, Inc.",
+      "downloadURL": "https://dl.dropbox.com/s/aejkqs8ppek8pnl/Puffin%20Browser%20Pro%20%5BCloudMosa%20Inc.%5D%20%28v5.2.0%20v15867%20Univ%20PI%20LP%20os80%29-zachary.rc336_933.ipa?dl=1",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/ab/da/df/abdadfc4-e332-e869-55ba-2aa78fa9431f/source/100x100bb.jpg",
+      "localizedDescription": "puffin for all ur flash emulating needs",
+      "name": "Puffin Pro",
+      "screenshotURLs": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/19/d3/c8/19d3c80c-5639-f3af-b160-678e2f1e1a8e/pr_source.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/07/a9/90/07a9901d-698c-1f3f-0b10-c1f7ca16622a/mzl.bggpogwf.png/392x696bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/56/f0/91/56f091d6-f85f-ae6d-f7e7-93c016444980/mzl.nvfwfqjy.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/b9/11/4a/b9114aed-8014-1c27-05ba-47ced9835c73/mzl.uqvdxpwj.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/e5/79/12/e5791277-8844-feae-7f3c-db925e3ce289/mzl.cwpipicc.png/392x696bb.png"
+      ],
+      "size": 38063309,
+      "subtitle": "rip flash",
+      "tintColor": "018070",
+      "version": "5.2.0",
+      "versionDate": "2020-05-22T14:00:00-07:00",
+      "versionDescription": "none. honestly who the hell uses flash anymore dude its so trash and whoever has yet to switch to html5 is sub-50 iq seriously"
+    },
     {
       "beta": false,
       "bundleIdentifier": "com.bitbrybit.things3",
@@ -76,14 +99,14 @@
   "name": "BITbriBIT",
   "news": [
     {
-      "appID": "com.bitbribit.fizdale",
+      "appID": "",
       "caption": "omg the knicks beat the bucks",
       "date": "2020-05-22",
       "identifier": "david-fizdale",
       "imageURL": "https://i.ibb.co/4pr5Mgt/066-D0-A17-595-E-4-C48-AF2-A-B6-A7-EE2-ABB1-F.jpg",
       "notify": false,
       "tintColor": "8A28F7",
-      "title": "david fizdale"
+      "title": "david fizdale",
       "url": "https://i.ibb.co/4pr5Mgt/066-D0-A17-595-E-4-C48-AF2-A-B6-A7-EE2-ABB1-F.jpg"
     }
   ],
