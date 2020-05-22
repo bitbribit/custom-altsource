@@ -15,7 +15,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a8/60/22a86015-1b65-4074-3ce2-10605bc3f1f4/pr_source.jpg/392x696bb.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/8b/71/578b7129-f222-639d-6acb-6d714baaac98/pr_source.jpg/392x696bb.jpg"
       ],
-      "size": 2184796,
+      "size": 63963136,
       "subtitle": "i like drawing",
       "tintColor": "018070",
       "version": "4.1",
@@ -42,7 +42,7 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/08/fa/38/08fa3802-e88c-b9b9-a824-4a3e526dd05d/pr_source.png/392x696bb.png",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ce/39/29/ce392935-e873-4efa-9f52-6e80b027b15e/mzl.euuusahh.png/392x696bb.png"
       ],
-      "size": 2184796,
+      "size": 83990938,
       "subtitle": "calzy pog",
       "tintColor": "018070",
       "version": "3.3.3",
@@ -50,7 +50,7 @@
       "versionDescription": "lmao"
     }
   ],
-  "identifier": "com.bitbribit.source",
+  "identifier": "com.example.source",
   "name": "BITbriBIT",
   "news": [],
   "userInfo": {}
