@@ -2,6 +2,28 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.bitbribit.paper",
+      "developerName": "FiftyThree",
+      "downloadURL": "https://dl.dropbox.com/s/zx5t51bqyznajrz/Paper%20v4.1.ipa?dl=1",
+      "iconURL": "https://dl1.cbsistatic.com/i/2017/05/22/c870302f-e7e0-4a84-98f3-aa8946b9263c/2d00d5dfff194c0c2a16dd916debe93d/imgingest-3475165210532039505.png",
+      "localizedDescription": "back when the app was good",
+      "name": "Paper by 53",
+      "screenshotURLs": [
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/ee/bc/ba/eebcbaec-3e8a-9c16-6153-33ed620c7dc9/pr_source.jpg/392x696bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/95/09/70/95097098-671d-b0df-dd53-c677b8a1a352/pr_source.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/9f/8e/899f8eff-7bba-8cf9-9fcb-27188310b714/pr_source.jpg/392x696bb.jpg",
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/22/a8/60/22a86015-1b65-4074-3ce2-10605bc3f1f4/pr_source.jpg/392x696bb.jpg",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/57/8b/71/578b7129-f222-639d-6acb-6d714baaac98/pr_source.jpg/392x696bb.jpg"
+      ],
+      "size": 2184796,
+      "subtitle": "i like drawing",
+      "tintColor": "018070",
+      "version": "4.1",
+      "versionDate": "2020-05-22T14:00:00-07:00",
+      "versionDescription": "idk"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.bitbribit.Calzy",
       "developerName": "WapleStuff",
       "downloadURL": "https://dl.dropbox.com/s/hyu5prb7396sofh/calzy_3.3.3_Zachary_Cracks%28%20up%20to%2013.0%20ok%29%29%20.ipa?dl=1",
@@ -28,7 +50,7 @@
       "versionDescription": "lmao"
     }
   ],
-  "identifier": "com.bitbribit.source",
+  "identifier": "com.example.source",
   "name": "BITbriBIT",
   "news": [],
   "userInfo": {}
