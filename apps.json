@@ -2,6 +2,28 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.bitbrybit.things3",
+      "developerName": "Cultured Code",
+      "downloadURL": "https://dl.dropbox.com/s/ratgayic2j7ytrw/ThingsiPhone%20%28v3.12.4%20v31204003%20unk%20PI%20DY%20FW%20W2%20iPhone5S%2064bit%20os121%20ok13%29-user_hidden.bfi.ipa?dl=1",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1b/23/73/1b23736f-49ac-3d8c-5bb8-39516dcb4fa5/source/100x100bb.png",
+      "localizedDescription": "thing 1, thing 2...",
+      "name": "Things 3",
+      "screenshotURLs": [
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/34/41/3c344180-6a05-030e-e0d7-fcc9efff6fe9/pr_source.png/392x696bb.png",
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/32/e1/eb/32e1eb6a-526b-b199-f564-2bfdf6d2a44a/pr_source.png/392x696bb.png",
+        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/87/a1/01/87a10157-9c8d-5411-7752-6296a253fa37/pr_source.png/392x696bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/9b/01/90/9b019098-0fc0-0bed-9d76-9fd3224a21e7/pr_source.png/392x696bb.png",
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/f0/32/94/f0329420-b251-dd7c-825f-6164e0a8edc8/pr_source.png/392x696bb.png"
+      ],
+      "size": 88709530,
+      "subtitle": "bc i cant remember",
+      "tintColor": "018070",
+      "version": "3.12.4",
+      "versionDate": "2020-05-22T14:00:00-07:00",
+      "versionDescription": "idk might be outdated\n\nalso uses a lot of App IDs, so beware"
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.bitbribit.paper",
       "developerName": "FiftyThree",
       "downloadURL": "https://dl.dropbox.com/s/zx5t51bqyznajrz/Paper%20v4.1.ipa?dl=1",
@@ -50,7 +72,7 @@
       "versionDescription": "lmao"
     }
   ],
-  "identifier": "com.example.source",
+  "identifier": "com.bitbribit.source",
   "name": "BITbriBIT",
   "news": [],
   "userInfo": {}
