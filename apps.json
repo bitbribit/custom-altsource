@@ -23,6 +23,24 @@
       "versionDescription": "Fixes an issue where AltStore cannot refresh DolphiniOS after 7 days.\n\nFind the full changelog here: https://oatmealdome.me/blog/dolphinios-ver-2-2-0/"
     },
     {
+      "beta": false,
+      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+      "developerName": "Chaoyang Tian",
+      "downloadURL": "https://files.catbox.moe/9d1p8a.ipa",
+      "iconURL": "https://lightning-sign.com/wp-content/uploads/2020/04/Lightning-ios-App.png",
+      "localizedDescription": "gang gang",
+      "name": "LightningSign",
+      "screenshotURLs": [
+        "https://lightning-sign.com/wp-content/uploads/2020/04/Lightning-Sign-Pro.png"
+      ],
+      "size": 7025459,
+      "subtitle": "lightning sign gang gang",
+      "tintColor": "018070",
+      "version": "1.2.2",
+      "versionDate": "2020-05-24T14:00:00-07:00",
+      "versionDescription": "lightning sign poggers pogW china"
+    },
+    {
       "name": "Filza Escaped",
       "bundleIdentifier": "com.dry05.filzaescaped11-12",
       "developerName": "Bas vT",
